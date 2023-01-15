@@ -3,7 +3,7 @@
 Team Members:
 1) Yaseen Abdulmahdi (277021)
 2) Mehrab Teimourpour (273741)
-3) Don Mark Tolod (276181)  
+3) Dan Mark Tolod (276181)  
 
 
 **INTRODUCTION**
